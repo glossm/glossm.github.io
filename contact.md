@@ -4,4 +4,4 @@ title: Contact
 use-site-title: true
 ---
 
-**Under Construction**
+[mail@minkyu.kim](mailto:mail@minkyu.kim)

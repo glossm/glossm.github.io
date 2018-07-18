@@ -4,10 +4,8 @@ title: About Glossm
 subtitle: What is Glossm and why is it important?
 ---
 
-_Under Construction_
-
-
-## ‘Glossm’ 집단 지성에 의한 알타이 언어 문서화
+# ‘Glossm’ 
+## 집단 지성에 의한 알타이 언어 문서화
 ### DOCUMENTATION OF ALTAIC LANGUAGES WITH COLLECTIVE INTELLIGENCE
 
 [Glossm 프로젝트 GitHub 바로가기](https://github.com/glossm/)
@@ -29,9 +27,13 @@ _Under Construction_
 
 ### 결과물의 개념도
 
-* 전사 결과와 점수 부여 방식의 예
+![결과물의 개념도](/assets/images/concept.png)
+
+![전사 결과와 점수 부여 방식의 예](/assets/images/points.png)
 
 ### 관련 연구
+
+![관련 연구](/assets/images/refs.png)
 
 * __Foldit__ — 2008년 워싱턴대학에서 개발한 폴드잇은 아미노산 연결 해독 게임이다. 게이머는 단백질의 3차원 구조를 흔들거나 구부리는 등 직접 움직여가며 효율적인 형태로 바꿔야 한다. 폴드잇은 게이머 수만 명의 참여 덕분에 3주 만에 정확한 단백질 구조 모델을 파악해 냈다.
 * __reCAPTCHA__ — 오래전에 제작된 종이책들을 텍스트화하기 위해 OCR 프로그램을 사용하는데, 낙서나 얼룩, 헤짐 등의 방해요소만 있어도 OCR 프로그램은 텍스트를 제대로 인식하지 못해 노동력과 인건비가 많이 들어간다. 이를 위해 CAPTCHA를 입력하는 많은 사용자들의 힘을 빌리는 것이 바로 리캡처이다.
