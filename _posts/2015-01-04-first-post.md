@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
+title: Welcome to Glossm blog
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+Welcome!

@@ -25,6 +25,7 @@ description: Developers' Blog of Glossm Project
 # List of links in the navigation bar
 navbar-links:
   About: "about"
+  Team: "team"
   Blog: "blog"
   Contact: "contact"
 
