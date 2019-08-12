@@ -49,5 +49,4 @@ subtitle: What is Glossm and why is it important?
  
 
 다운로드: [프로젝트 제안서 (PDF)](/assets/glossm.pdf)
-
- 
+다운로드: [미션선언문](/assets/glossm.pdf)
